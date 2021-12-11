@@ -1,3 +1,4 @@
+//Displays love sign in LED 8*8 display
 // 2-dimensional array of row pin numbers:
 int R[] = {10,11,12,13,A0,A1,A2,A3};
 // 2-dimensional array of column pin numbers:

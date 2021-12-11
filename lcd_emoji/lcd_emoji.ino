@@ -1,3 +1,4 @@
+// This displays smiley and love emoji in LCD 16*2
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(22,23,5,18,19,21);
 byte emoji[8] = {

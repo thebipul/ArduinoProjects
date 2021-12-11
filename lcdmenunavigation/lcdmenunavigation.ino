@@ -1,3 +1,4 @@
+// This helps in menu navigation between 6 menus in esp32
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(22, 23, 5, 18, 19, 21);  //LCD ports in Esp32
 char *Opt[] = {"MenuA","MenuB","MenuC","MenuD","MenuE","MenuF"};

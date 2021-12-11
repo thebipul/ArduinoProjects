@@ -1,3 +1,4 @@
+// this checks if 8*8 LED displays correctly or not
 
 // Rows 
 #define R1 2

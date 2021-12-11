@@ -1,4 +1,4 @@
-//SPI MASTER (STM32 NUCLEO L476RG)
+//USING SPI MASTER (STM32 NUCLEO L476RG) in Arduino IDE
 
 
 #include<SPI.h>                             //Library for SPI 

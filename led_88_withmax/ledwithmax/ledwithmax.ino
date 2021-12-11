@@ -1,3 +1,5 @@
+// LED 8*8 used with MAX
+
 #include <LedControl.h>
 
 int DIN = 12;

@@ -1,3 +1,5 @@
+//STM and arduino as master and slave for spi transmission
+
 #include<SPI.h>
 
 const int ledPin = 13;

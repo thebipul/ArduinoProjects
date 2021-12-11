@@ -1,3 +1,5 @@
+//Displays my name BIPUL In LED 8*8
+
 // 2-dimensional array of row pin numbers:
 int R[] = {10,11,12,13,A0,A1,A2,A3};
 // 2-dimensional array of column pin numbers:

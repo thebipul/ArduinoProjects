@@ -1,4 +1,4 @@
-//SPI MASTER (ARDUINO)
+//Arduino as SPI Master
 
 
 #include<SPI.h>                             //Library for SPI 

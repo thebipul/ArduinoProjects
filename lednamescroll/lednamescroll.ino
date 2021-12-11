@@ -1,3 +1,5 @@
+//My name BIPUL Panthi is srolled in the LED 8*8 display
+
 //We always have to include the library
 #include "LedControl.h"
 

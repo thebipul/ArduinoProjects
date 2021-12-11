@@ -1,3 +1,6 @@
+// Scrolls name in LED 8*8
+
+
 //We always have to include the library
 #include "LedControl.h"
 
